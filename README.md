@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/meharG811/meharG811/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/MeharG811/MeharG811/blob/main/output/snake.svg" alt="Snake animation" />
 
 ###
