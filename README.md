@@ -12,6 +12,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,11 +28,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/meharhassan8585?igsh=ajF4cTJqYm42enAz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
@@ -50,8 +58,6 @@
 <img align="right" height="150" src="https://i.gifer.com/1Kte.gif"  />
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/meharG811/meharG811/output/snake.svg" alt="Snake animation" />
 
